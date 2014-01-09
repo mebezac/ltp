@@ -34,7 +34,7 @@ Mixing it up:
 Chapter 6
 ---------
 More About Methods
-* [number_length.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2006/number_length.rb)
+* [name_length.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2006/name_length.rb)
 * [angry_boss.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2006/angry_boss.rb)
 
 Chapter 7
