@@ -15,6 +15,7 @@ Chapter 2
 ---------
 Introduction to numbers:
 * calc.rb
+
 Chapter 3
 ---------
 
