@@ -28,6 +28,8 @@ Variables and Assignment:
 
 Chapter 5
 ---------
+Mixing it up:
+* [mix.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2005/mix.rb)
 
 Chapter 6
 ---------
