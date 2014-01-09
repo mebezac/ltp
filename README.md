@@ -41,8 +41,9 @@ Chapter 7
 ---------
 Flow Control
 
-*[99.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2007/99.rb)
-*[deaf_grandma.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2007/deaf_grandma.rb)
+* [99.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2007/99.rb)
+* [deaf_grandma.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2007/deaf_grandma.rb)
+
 Chapter 8
 ---------
 
