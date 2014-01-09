@@ -23,6 +23,8 @@ Introduction to strings:
 
 Chapter 4
 ---------
+Variables and Assignment:
+* no program written
 
 Chapter 5
 ---------
