@@ -3,7 +3,7 @@ Chapter 5 - Mixing It Up
 
 Topics covered:
 * Conversions (Strings to numbers and vice versa)
-	*.to_i, .to_f, to_s
+	* .to_i, .to_f, .to_s
 * Puts converts integers to string in order to print and 
 * gets
 * Chomp (removes newline)
