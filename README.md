@@ -18,6 +18,8 @@ Introduction to numbers:
 
 Chapter 3
 ---------
+Introduction to strings:
+* no program written
 
 Chapter 4
 ---------
