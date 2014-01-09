@@ -14,7 +14,7 @@ I am using:
 Chapter 2
 ---------
 Introduction to numbers:
-* calc.rb
+* [calc.rb] (https://github.com/mebezac/ltp/blob/master/Chapter%2002/calc.rb)
 
 Chapter 3
 ---------
