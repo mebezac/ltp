@@ -9,5 +9,5 @@ Topics covered:
 
 ###Program written###
 
-calc.rb (Calculates the approximate age of the author in years given seconds)
+[calc.rb] (https://github.com/mebezac/ltp/blob/master/Chapter%2002/calc.rb) (Calculates the approximate age of the author in years given seconds)
 
