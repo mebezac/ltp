@@ -5,9 +5,11 @@ Here are the practice exersices as outlined in Chris Pine's book *Learn To Progr
 
 Chapter 1
 ---------
-Here we do some stuff like:
--This
--And this
+No program for this chapter, just environment setup.
+I am using:
+* VM with Ubuntu 13.10
+* RVM to install ruby 2.1.0
+* Sublime Text
 
 Chapter 2
 ---------
