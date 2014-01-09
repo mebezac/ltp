@@ -10,4 +10,4 @@ Topics covered:
 
 ###Program written###
 
-[mix.rb] (https://github.com/mebezac/ltp/blob/master/Chapter%2005/mix.rb) (Uses gets.chomp to get name and favorite number. Then uses .to_i and .to_s to insult your favorite number)
+[mix.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2005/mix.rb) (Uses gets.chomp to get name and favorite number. Then uses .to_i and .to_s to insult your favorite number)
