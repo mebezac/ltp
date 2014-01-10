@@ -47,6 +47,9 @@ Flow Control
 
 [Chapter 8](https://github.com/mebezac/ltp/tree/master/Chapter%2008)
 ---------
+Arrays and Iterators
+
+* [sort_array.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2008/sort_array.rb)
 
 [Chapter 9](https://github.com/mebezac/ltp/tree/master/Chapter%2009)
 ---------
