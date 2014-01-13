@@ -27,9 +27,7 @@ def number_to_modern_roman number
 
     if hundreds_digit == 9
       nine_hundreds = 1
-    end
-
-    if hundreds_digit == 4
+    elsif hundreds_digit == 4
       four_hundreds = 1
     end
   end
@@ -40,9 +38,7 @@ def number_to_modern_roman number
 
     if tens_digit == 9
       ninties = 1
-    end
-
-    if tens_digit == 4
+    elsif tens_digit == 4
       fourties = 1
     end
   end
@@ -53,9 +49,7 @@ def number_to_modern_roman number
 
     if ones_digit == 9
       nines = 1
-    end
-
-    if ones_digit == 4
+    elsif ones_digit == 4
       fours = 1
     end
   end
