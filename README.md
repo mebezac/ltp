@@ -62,3 +62,17 @@ Writing Your Own Methods
 
 [Chapter 10](https://github.com/mebezac/ltp/tree/master/Chapter%20010)
 ---------
+
+Recursion
+
+* [sort_method.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2010/sort_method.rb)
+
+* [sort_method_shorter.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2010/sort_method_shorter.rb)
+
+* [shuffle_method.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2010/shuffle_method.rb)
+
+* [dictionary_sort.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2010/dictionary_sort.rb)
+
+* [english_number.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2010/english_number.rb)
+
+* [99_english.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2010/99_english.rb)
