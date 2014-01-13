@@ -60,7 +60,7 @@ Writing Your Own Methods
 
 * [modern_roman.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2009/modern_roman.rb)
 
-[Chapter 10](https://github.com/mebezac/ltp/tree/master/Chapter%20010)
+[Chapter 10](https://github.com/mebezac/ltp/tree/master/Chapter%2010)
 ---------
 
 Recursion
