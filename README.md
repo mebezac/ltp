@@ -53,6 +53,12 @@ Arrays and Iterators
 
 [Chapter 9](https://github.com/mebezac/ltp/tree/master/Chapter%2009)
 ---------
+Writing Your Own Methods
+* [ask_method.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2009/ask_method.rb)
+
+* [old_roman.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2009/old_roman.rb)
+
+* [modern_roman.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2009/modern_roman.rb)
 
 [Chapter 10](https://github.com/mebezac/ltp/tree/master/Chapter%20010)
 ---------
