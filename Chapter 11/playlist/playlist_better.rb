@@ -31,12 +31,9 @@ def mix_up_music(array_of_songs)
   new_array
 end
 
-
-
 music_dir.each do |song|
   array_of_song_paths << song
 end
-
 
 File.open(playlist_name, 'w') do |f|
   f.write (mix_up_music(array_of_song_paths)).join("\n")
