@@ -76,3 +76,23 @@ Recursion
 * [english_number.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2010/english_number.rb)
 
 * [99_english.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2010/99_english.rb)
+
+[Chapter 11](https://github.com/mebezac/ltp/tree/master/Chapter%2011)
+---------
+
+Reading and Writing, Saving and Loading, Yin and ... Something Else
+
+* [safer_picture_downloading.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2011/safer_picture_downloading/safer_picture_downloading.rb)
+
+* [playlist.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2011/playlist/playlist.rb)
+
+* [playlist_better.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2011/playlist/playlist_better.rb)
+
+[Chapter 12](https://github.com/mebezac/ltp/tree/master/Chapter%2012)
+---------
+
+[Chapter 13](https://github.com/mebezac/ltp/tree/master/Chapter%2013)
+---------
+
+[Chapter 14](https://github.com/mebezac/ltp/tree/master/Chapter%2014)
+---------
