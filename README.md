@@ -90,6 +90,14 @@ Reading and Writing, Saving and Loading, Yin and ... Something Else
 
 [Chapter 12](https://github.com/mebezac/ltp/tree/master/Chapter%2012)
 ---------
+New Classes of Objects
+* [billion_seconds.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2012/billion_seconds.rb)
+
+* [happy_birtday.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2012/happy_birthday.rb)
+
+* [roman_to_integer.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2012/roman_to_integer.rb)
+
+* [birthday_helper.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2012/rbirthday_helper.rb) 
 
 [Chapter 13](https://github.com/mebezac/ltp/tree/master/Chapter%2013)
 ---------
