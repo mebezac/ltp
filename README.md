@@ -97,7 +97,7 @@ New Classes of Objects
 
 * [roman_to_integer.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2012/roman_to_integer.rb)
 
-* [birthday_helper.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2012/rbirthday_helper.rb) 
+* [birthday_helper.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2012/birthday_helper.rb) 
 
 [Chapter 13](https://github.com/mebezac/ltp/tree/master/Chapter%2013)
 ---------

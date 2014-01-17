@@ -17,4 +17,4 @@ Topics covered:
 
 [roman_to_integer.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2012/roman_to_integer.rb) (Converts Roman numeral.)
 
-[birthday_helper.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2012/rbirthday_helper.rb) (Reads birthdates from a file and then tells you the birtday and age of person you search for.)
+[birthday_helper.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2012/birthday_helper.rb) (Reads birthdates from a file and then tells you the birtday and age of person you search for.)
