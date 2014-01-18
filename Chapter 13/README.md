@@ -15,6 +15,5 @@ Topics covered:
 
 [orange_tree.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2013/orange_tree.rb) (Creates OrangeTree class and methods and then initializes a new orange tree and calls various methods on it.)
 
-[roman_to_integer.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2012/roman_to_integer.rb) (Converts Roman numeral.)
+[dragon.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2013/dragon.rb) (Adds interactivity to Dragon class from book.)
 
-[birthday_helper.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2012/birthday_helper.rb) (Reads birthdates from a file and then tells you the birtday and age of person you search for.)
