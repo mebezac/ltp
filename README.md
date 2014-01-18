@@ -101,6 +101,12 @@ New Classes of Objects
 
 [Chapter 13](https://github.com/mebezac/ltp/tree/master/Chapter%2013)
 ---------
+Creating New Classes, Changing Existing Ones
+* [to_roman.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2013/to_roman.rb)
+
+* [orange_tree.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2013/orange_tree.rb)
+
+* [dragon.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2013/dragon.rb)
 
 [Chapter 14](https://github.com/mebezac/ltp/tree/master/Chapter%2014)
 ---------
