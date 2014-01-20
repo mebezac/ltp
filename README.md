@@ -110,3 +110,10 @@ Creating New Classes, Changing Existing Ones
 
 [Chapter 14](https://github.com/mebezac/ltp/tree/master/Chapter%2014)
 ---------
+Blocks and Procs
+
+* [grandfather_clock.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2014/grandfather_clock.rb)
+
+* [program_logger.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2014/program_logger.rb)
+
+* [better_program_logger.rb](https://github.com/mebezac/ltp/blob/master/Chapter%2014/better_program_logger.rb)
